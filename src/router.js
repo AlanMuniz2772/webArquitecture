@@ -1,22 +1,36 @@
 import { createRouter, createWebHistory } from "vue-router";
 //Importar las diferentes vistas
-import Inicio from "./views/Inicio.vue";
-import SomosUadec from "./views/SomosUadec.vue";
+import Unidad1 from "./views/Unidad1.vue";
+import Unidad2 from "./views/Unidad2.vue";
+import Unidad3 from "./views/Unidad3.vue";
+import Unidad4 from "./views/Unidad4.vue";
 
 //configuracion de rutas
 const routes = [
 	{
 		path: "/",
-		name: "Inicio",
+		name: "Unidad1",
 		alias: "/",
-		component: Inicio,
+		component: Unidad1,
 	},
 	{
-		path: "/somos-uadec",
-		name: "SomosUadec",
-		alias: "/",
-		component: SomosUadec,
+		path: "/unidad2",
+		name: "Unidad2",
+		alias: "/unidad2",
+		component: Unidad2,
 	},
+	{
+		path: "/unidad3",
+		name: "Unidad3",
+		alias: "/unidad3",
+		component: Unidad3,
+	},
+	{
+		path: "/unidad4",
+		name: "Unidad4",
+		alias: "/unidad4",
+		component: Unidad4,
+	}
 ];
 
 const router = createRouter({

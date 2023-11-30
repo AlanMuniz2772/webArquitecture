@@ -1,72 +1,76 @@
 <template>
-	<div class="w-full bg-black p-6 flex" id="NavBar">
-		<div class="w-1/5 flex items-center justify-center" id="leftArea">
-			<div class="iconPortal">
-				<img src="src/assets/iconos/logo_web_portal.png" alt="">
+	<div class="w-full bg-black p-3 flex sticky top-0" id="NavBar">
+		<div class="w-1/5 flex justify-center" id="leftArea">
+			<div class="flex flex-col justify-center w-20 text-white text-2xl font-bold">
+				<p class="ml-3">Arquitectura</p>
+				<p>Computadoras</p>
 			</div>
 		</div>
-		<div class="w-4/5 flex flex-col" id="rigthArea">
-			<div class="h-1/2 flex justify-end" id="topArea">
-				<div class="absolute top-1" id="topLogo">
-					<img src="src/assets/iconos/dpfinal.png" alt="">
-				</div>
-			</div>
-			<div class="menuBar flex justify-center" id="menuBar">
+		<div class="w-4/5 flex flex-row justify-end" id="rigthArea">
+			<div class="menuBar flex justify-center items-center mr-16" id="menuBar">
 				<ul class="flex space-x-4">
 					<li>
 						<router-link to="/"
 							class="rounded text-white px-4 py-2 transition duration-300 ease-in-out hover:bg-white hover:text-black">
-							Inicio
+							Unidad 1
 						</router-link>
 					</li>
 					<li>
-						<router-link to="/somos-uadec"
-							class="text-white px-4 py-2 transition duration-300 ease-in-out hover:bg-blue-700 hover:text-gray-100 focus:outline-none focus:bg-blue-700 focus:text-gray-100">
-							Somos Uadec
+						<router-link to="/unidad2"
+							class="rounded text-white px-4 py-2 transition duration-300 ease-in-out hover:bg-white hover:text-black">
+							Unidad 2
 						</router-link>
 					</li>
 					<li>
-						<router-link to="/numeralia"
-							class="text-white px-4 py-2 transition duration-300 ease-in-out hover:bg-blue-700 hover:text-gray-100 focus:outline-none focus:bg-blue-700 focus:text-gray-100">
-							Numeralia
+						<router-link to="/unidad3"
+							class="rounded text-white px-4 py-2 transition duration-300 ease-in-out hover:bg-white hover:text-black">
+							Unidad 3
 						</router-link>
-					</li>
-					<li class="group relative">
-						<router-link to="/estadisticas"
-							class="text-white px-4 py-2 transition duration-300 ease-in-out group-hover:bg-blue-700 group-hover:text-gray-100 focus:outline-none focus:bg-blue-700 focus:text-gray-100">
-							Estadisticas
-						</router-link>
-						<ul class="absolute hidden bg-blue-800 group-hover:block">
-							<li>
-								<router-link to="/estadisticas/subpagina1"
-									class="text-white px-4 py-2">Documentos</router-link>
-							</li>
-							<li>
-								<router-link to="/estadisticas/subpagina2"
-									class="text-white px-4 py-2">Auditorias</router-link>
-							</li>
-						</ul>
-					</li>
-					<li class="group relative">
-						<router-link to="/sie"
-							class="text-white px-4 py-2 transition duration-300 ease-in-out group-hover:bg-blue-700 group-hover:text-gray-100 focus:outline-none focus:bg-blue-700 focus:text-gray-100">
-							SIE
-						</router-link>
-						<ul class="absolute hidden bg-blue-800 group-hover:block">
-							<li>
-								<router-link to="/sie/subpagina1" class="text-white px-4 py-2 ">Modelos
-									(Cubos)</router-link>
-							</li>
-						</ul>
 					</li>
 					<li>
-						<router-link to="/contacto"
-							class="text-white px-4 py-2 transition duration-300 ease-in-out hover:bg-blue-700 hover:text-gray-100 focus:outline-none focus:bg-blue-700 focus:text-gray-100">
-							Contacto
+						<router-link to="/unidad4"
+							class="rounded text-white px-4 py-2 transition duration-300 ease-in-out hover:bg-white hover:text-black">
+							Unidad 4
 						</router-link>
 					</li>
 				</ul>
+				<div class="ml-2 border-l-2">
+					<div class="group relative ml-2">
+						<router-link to="/"
+						class="rounded text-xl font-semibold text-white px-4 py-2 transition duration-300 ease-in-out hover:bg-white hover:text-black">
+							Practicas
+						</router-link>
+						<ul class="rounded border-2 border-white absolute hidden mt-1 ml-3 bg-black group-hover:block">
+							<li class="flex">
+								<router-link to="/" class="w-full text-white flex justify-center py-2 px-2 transition duration-300 ease-in-out hover:bg-white hover:text-black">
+									Practica 1
+								</router-link>
+							</li>
+							<li class="flex">
+								<router-link to="/" class="w-full text-white flex justify-center py-2 px-2 transition duration-300 ease-in-out hover:bg-white hover:text-black">
+									Practica 2
+								</router-link>
+							</li>
+							<li class="flex">
+								<router-link to="/" class="w-full text-white flex justify-center py-2 px-2 transition duration-300 ease-in-out hover:bg-white hover:text-black">
+									Practica 3
+								</router-link>
+							</li>
+							<li class="flex">
+								<router-link to="/" class="w-full text-white flex justify-center py-2 px-2 transition duration-300 ease-in-out hover:bg-white hover:text-black">
+									Practica 4
+								</router-link>
+							</li>
+							
+						</ul>
+					</div>
+				</div>
 			</div>
+			
+			<div class=" w-20" id="topLogo">
+				<img src="src/assets/images/logotec.png" alt="">
+			</div>
+			
 		</div>
 	</div>
 </template>
