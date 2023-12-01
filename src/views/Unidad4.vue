@@ -207,7 +207,7 @@
                     </div>
                 </div>
                 <div class="flex flex-row justify-around mt-5">
-                    <img src="src\assets\images\Unidad4\memoriaram.jpg" alt="">
+                    <img src="..\assets\images\Unidad4\memoriaram.jpg" alt="">
                 </div>
             </div>
             <div class="container mx-auto mt-10">
@@ -294,7 +294,7 @@
                         el dato al antiguo máster, que ahora
                         actúa como slave.
                     </p>
-                    <img src="src\assets\images\Unidad4\ciclocompartido.jpeg" class="w-2/5" alt="">
+                    <img src="..\assets\images\Unidad4\ciclocompartido.jpeg" class="w-2/5" alt="">
                 </div>
             </div>
             <div class="container mx-auto mt-10">
@@ -321,7 +321,7 @@
                         </div>
                     </div>
                     <div class="w-4/5 flex justify-center">
-                        <img src="src\assets\images\Unidad4\Redes-Jerárquicas.png" alt="">
+                        <img src="..\assets\images\Unidad4\Redes-Jerárquicas.png" alt="">
                     </div>
                 </div>
             </div>

@@ -11,7 +11,7 @@
                         <p>Estas arquitecturas se desarrollaron en las primeras computadoras electromecánicas y de tubos de vacío. Aun son usadas en procesadores empotrados de gama baja y son la base de la mayoría de las arquitecturas modernas.</p>
                     </div>
                     <div class="w-2/5">
-                        <img src="src\assets\images\Unidad1\bus.jpg" alt="">
+                        <img src="../assets/images/Unidad1/bus.jpg" alt="">
                     </div>
                     <div class="w-1/5">
                         <p>Una desventaja es que el bus de datos y direcciones único se convierte en un cuello de botella por el cual debe pasar toda la información que se lee de o se escribe a la memoria, obligando a que todos los accesos a esta sean secuenciales.</p>
@@ -25,7 +25,7 @@
                         <p>El programa se almacena como un código numérico en la memoria, el hecho de tener un bus separado para el programa y otro para los datos permite que se lea el código de operación de una instrucción, al mismo tiempo se lee de la memoria de datos los operados de la instrucción previa.</p>
                     </div>
                     <div class="w-2/5">
-                        <img src="src\assets\images\Unidad1\bus2.jpg" alt="">
+                        <img src="..\assets\images\Unidad1\bus2.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -33,7 +33,7 @@
                 <h2 class="flex justify-center text-3xl font-bold">1.1.2 Arquitecturas Segmentadas</h2>
                 <div class="flex flex-row justify-evenly mt-5">
                     <div class="w-2/5">
-                        <img src="src\assets\images\Unidad1\bus3.jpg" alt="">
+                        <img src="..\assets\images\Unidad1\bus3.jpg" alt="">
                     </div>
                     <div class="w-2/5">
                         <p>Buscan mejorar el desempeño realizando paralelamente varias etapas del ciclo de instrucción al mismo tiempo. El procesador se divide en varias unidades funcionales independientes y se dividen entre ellas el procesamiento de las instrucciones.</p>
@@ -49,7 +49,7 @@
                         
                     </div>
                     <div class="w-4/5">
-                        <img class="mt-5" src="src\assets\images\Unidad1\bus4.jpg" alt="">
+                        <img class="mt-5" src="..\assets\images\Unidad1\bus4.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -60,7 +60,7 @@
                         <p>Es un un componente básico de todo dispositivo que procesa datos y realiza cálculos matemáticos-informáticos. El CPU es la pieza fundamental de todo dispositivo, es considerado el cerebro de un sistema. En primer lugar, es el encargado de recibir e interpretar datos y ejecutar las secuencias de instrucciones a realizar por cada programa valiéndose de operaciones aritméticas y matemáticas.</p>
                     </div>
                     <div class="w-2/5">
-                        <img src="src\assets\images\Unidad1\cpu.jpeg" alt="">
+                        <img src="..\assets\images\Unidad1\cpu.jpeg" alt="">
                     </div>
                 </div>                    
             </div>
@@ -68,7 +68,7 @@
                 <h2 class="flex justify-center text-3xl font-bold">1.2.1.1 Arquitectura</h2>
                 <div class="flex flex-row justify-evenly mt-5">
                     <div class="w-2/5">
-                        <img src="src\assets\images\Unidad1\bua.jpg" alt="">
+                        <img src="..\assets\images\Unidad1\bua.jpg" alt="">
                     </div>
                     <div class="w-2/5 text-2xl">
                         <p>Hoy en día, en la actualidad han aparecido arquitecturas híbridas entre la Von Newmann y la Harvard, buscando conservar la flexibilidad, pero optimizando el rendimiento. Los programas cada vez más grandes y complejos demandan mayor velocidad en el procesamiento de información como lo que implica la elección de microprocesadores más rápidos y eficientes. Para asignarle un diseño a un microprocesador se debe identificar cuál será su función principal.</p>
@@ -97,10 +97,10 @@
                 </div>
                 <div class="flex flex-row justify-center mt-5 text-xl">
                     <div class="w-4/5">
-                        <img src="src\assets\images\Unidad1\cisc.jpg" alt="">
+                        <img src="..\assets\images\Unidad1\cisc.jpg" alt="">
                     </div>
                     <div class="w-4/5">
-                        <img src="src\assets\images\Unidad1\risc.jpg" alt="">
+                        <img src="..\assets\images\Unidad1\risc.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -122,7 +122,7 @@
                         </p>
                     </div>
                     <div class="w-3/5">
-                        <img src="src\assets\images\Unidad1\estructuradebus.jpg" class="w-full" alt="">
+                        <img src="..\assets\images\Unidad1\estructuradebus.jpg" class="w-full" alt="">
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@
                         </p>
                     </div>
                     <div class="w-2/5">
-                        <img src="src\assets\images\Unidad1\ram.jpeg" class="w-full">
+                        <img src="..\assets\images\Unidad1\ram.jpeg" class="w-full">
                     </div>
                 </div>
             </div>
@@ -225,7 +225,7 @@
                 <h2 class="flex justify-center text-3xl font-bold">1.2.3.4 Acceso directo a la memoria  </h2>
                 <div class="flex flex-row justify-evenly mt-5">
                     <div class="w-2/5">
-                        <img src="src\assets\images\Unidad1\accesomemoria.jpg" alt="">
+                        <img src="..\assets\images\Unidad1\accesomemoria.jpg" alt="">
                     </div>
                     <div class="w-2/5 text-2xl">
                         <p>
@@ -306,7 +306,7 @@
                         </p>
                     </div>
                     <div class="w-4/5">
-                        <img src="src\assets\images\Unidad1\normalizacionbus.jpg" alt="">
+                        <img src="..\assets\images\Unidad1\normalizacionbus.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -340,7 +340,7 @@
                         </p>
                     </div>
                     <div class="w-4/5 flex justify-center">
-                        <img src="src\assets\images\Unidad1\modovirtual.jpg" alt="">
+                        <img src="..\assets\images\Unidad1\modovirtual.jpg" alt="">
                     </div>
                 </div>
             </div>

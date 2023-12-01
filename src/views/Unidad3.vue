@@ -19,10 +19,10 @@
                         </p>
                         <div class="flex flex-row mt-3">
                             <div>
-                                <img src="src\assets\images\Unidad3\chip1.png" alt="" srcset="">
+                                <img src="..\assets\images\Unidad3\chip1.png" alt="" srcset="">
                             </div>
                             <div>
-                                <img src="src\assets\images\Unidad3\chip2.png" alt="" srcset="">
+                                <img src="..\assets\images\Unidad3\chip2.png" alt="" srcset="">
                             </div>
                         </div>
                     </div>
@@ -60,7 +60,7 @@
                         </p>  
                     </div>
                     <div class="w-1/3">
-                        <img src="src\assets\images\Unidad3\arquitectura.png" alt="" srcset="">
+                        <img src="..\assets\images\Unidad3\arquitectura.png" alt="" srcset="">
                     </div>
                     <div class="w-1/5">
                         <h3 class="text-xl font-semibold">Southbridge</h3>
@@ -127,7 +127,7 @@
                     </div>
                     
                     <div class="w-2/5">
-                        <img src="src\assets\images\Unidad3\bus.png" alt="" srcset="">
+                        <img src="..\assets\images\Unidad3\bus.png" alt="" srcset="">
                     </div>
                 </div>
             </div>
@@ -172,7 +172,7 @@
                         </ul>
                     </div>
                     <div class="w-1/3">
-                        <img src="src\assets\images\Unidad3\ports.png" alt="" srcset="">
+                        <img src="..\assets\images\Unidad3\ports.png" alt="" srcset="">
                     </div>
                 </div>
             </div>
@@ -196,7 +196,7 @@
                     </div>
                     
                     <div class="w-2/5">
-                        <img src="src\assets\images\Unidad3\dmapio.png" alt="" srcset="">
+                        <img src="..\assets\images\Unidad3\dmapio.png" alt="" srcset="">
                     </div>
                 </div>
             </div>
@@ -230,7 +230,7 @@
                 <h2 class="flex justify-center text-3xl font-bold">3.1.8 Controladores de Video</h2>
                 <div class="flex flex-row justify-around mt-5">
                     <div class="w-2/5">
-                        <img src="src\assets\images\Unidad3\tarjetagrafica.png" alt="" srcset="">
+                        <img src="..\assets\images\Unidad3\tarjetagrafica.png" alt="" srcset="">
                     </div>
                     <div class="w-2/5">
                         <p class="text-xl">
@@ -279,7 +279,7 @@
                         </div>
                     </div>
                     <div class="flex justify-center">
-                        <img src="src\assets\images\Unidad3\gamabaja.png" alt="" srcset="">
+                        <img src="..\assets\images\Unidad3\gamabaja.png" alt="" srcset="">
                     </div>
                 </div>
                 <div class="mt-10">
@@ -318,7 +318,7 @@
                         </div>
                     </div>
                     <div class="flex justify-center">
-                        <img src="src\assets\images\Unidad3\gamamedia1.png" alt="" srcset="">
+                        <img src="..\assets\images\Unidad3\gamamedia1.png" alt="" srcset="">
                     </div>
                 </div>
                 <div class="mt-10">
@@ -355,8 +355,8 @@
                         </div>
                     </div>
                     <div class="flex flex-row justify-around">
-                        <img src="src\assets\images\Unidad3\gamaalta1.png" alt="" srcset="">
-                        <img src="src\assets\images\Unidad3\gamaalta2.png" alt="" srcset="">
+                        <img src="..\assets\images\Unidad3\gamaalta1.png" alt="" srcset="">
+                        <img src="..\assets\images\Unidad3\gamaalta2.png" alt="" srcset="">
                     </div>
                 </div>
             </div>
@@ -406,8 +406,8 @@
                         </div>
                     </div>
                     <div class="flex flex-row justify-around mt-3">
-                        <img src="src\assets\images\Unidad3\perentrada.png" alt="" srcset="">
-                        <img src="src\assets\images\Unidad3\persalida.png" alt="" srcset="">
+                        <img src="..\assets\images\Unidad3\perentrada.png" alt="" srcset="">
+                        <img src="..\assets\images\Unidad3\persalida.png" alt="" srcset="">
                     </div>
                 </div>
             </div>
@@ -443,8 +443,8 @@
                         </p>
                     </div >
                     <div class="w-2/5">
-                        <img src="src\assets\images\Unidad3\fuentealim1.png" alt="" srcset="">
-                        <img src="src\assets\images\Unidad3\fuentealim2.png" alt="" srcset="">
+                        <img src="..\assets\images\Unidad3\fuentealim1.png" alt="" srcset="">
+                        <img src="..\assets\images\Unidad3\fuentealim2.png" alt="" srcset="">
                     </div>
                 </div>
             </div>
@@ -452,7 +452,7 @@
                 <h2 class="flex justify-center text-3xl font-bold">3.3. Ambientes de Servicio</h2>
                 <div class="flex flex-row justify-around mt-5">
                     <div class="w-2/5">
-                        <img src="src\assets\images\Unidad3\ambienteservicio.png" alt="" srcset="">
+                        <img src="..\assets\images\Unidad3\ambienteservicio.png" alt="" srcset="">
                     </div>
                     <div class="w-2/5">
                         <p class="text-2xl">

@@ -51,7 +51,7 @@
 			</div>
 			
 			<div class=" w-20" id="topLogo">
-				<img src="src/assets/images/logotec.png" alt="">
+				<img src="../assets/images/logotec.png" alt="">
 			</div>
 			
 		</div>
@@ -132,9 +132,6 @@
   display: block;
 }
 */
-#topLogo img {
-	height: 80px;
 
-}
 </style>
   
