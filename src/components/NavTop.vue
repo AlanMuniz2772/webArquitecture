@@ -35,34 +35,17 @@
 					</li>
 				</ul>
 				<div class="ml-2 border-l-2">
-					<div class="group relative ml-2">
-						<router-link to="/"
-						class="rounded text-xl font-semibold text-white px-4 py-2 transition duration-300 ease-in-out hover:bg-white hover:text-black">
+					<div class="ml-2">
+						<a href="https://drive.google.com/drive/folders/1hFZeoQ8ez7Q8GcBqXd-o6wUMka1dsfmq?usp=sharing" class="rounded text-white px-4 py-2 transition duration-300 ease-in-out hover:bg-white hover:text-black">
 							Practicas
-						</router-link>
-						<ul class="rounded border-2 border-white absolute hidden mt-1 ml-3 bg-black group-hover:block">
-							<li class="flex">
-								<router-link to="/" class="w-full text-white flex justify-center py-2 px-2 transition duration-300 ease-in-out hover:bg-white hover:text-black">
-									Practica 1
-								</router-link>
-							</li>
-							<li class="flex">
-								<router-link to="/" class="w-full text-white flex justify-center py-2 px-2 transition duration-300 ease-in-out hover:bg-white hover:text-black">
-									Practica 2
-								</router-link>
-							</li>
-							<li class="flex">
-								<router-link to="/" class="w-full text-white flex justify-center py-2 px-2 transition duration-300 ease-in-out hover:bg-white hover:text-black">
-									Practica 3
-								</router-link>
-							</li>
-							<li class="flex">
-								<router-link to="/" class="w-full text-white flex justify-center py-2 px-2 transition duration-300 ease-in-out hover:bg-white hover:text-black">
-									Practica 4
-								</router-link>
-							</li>
-							
-						</ul>
+						</a>
+					</div>
+				</div>
+				<div class="ml-2 border-l-2">
+					<div class="ml-2">
+						<a href="https://drive.google.com/drive/folders/1v61g-eqaqsVdZVq6PcFd9ceD52MpFdF0?usp=sharing" class="rounded text-white px-4 py-2 transition duration-300 ease-in-out hover:bg-white hover:text-black">
+							Tareas
+						</a>
 					</div>
 				</div>
 			</div>

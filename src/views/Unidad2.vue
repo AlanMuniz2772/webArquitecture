@@ -16,7 +16,7 @@
                     </div>
                 </div>
                 <div class="flex justify-center mt-5">
-                    <img src="src\assets\images\Unidad1\procesador.jpg" alt="">
+                    <img src="src\assets\images\Unidad2\procesador.jpg" alt="">
                 </div>
             </div>
             <div class="container mx-auto mt-10">
@@ -27,7 +27,7 @@
                     </div>
                 </div>
                 <div class="flex justify-center mt-5">
-                    <img src="src\assets\images\Unidad1\jerarquia.jpg" alt="">
+                    <img src="src\assets\images\Unidad2\jerarquia.jpg" alt="">
                 </div>
             </div>
             <div class="container mx-auto mt-10">
@@ -53,12 +53,12 @@
                         <p>Resulta instructivo examinar y comparar las organizaciones de registros de sistemas análogos. A continuación, se examinan dos microprocesadores de 16 bits diseñados aproximadamente al mismo tiempo: Por un lado esta el Motorola MC68000[STRI79] y el Intel 8086[MORS78]</p>
                     </div>
                     <div class="w-2/5">
-                        <img src="src\assets\images\Unidad1\EJEMPLOCPU.jpg" alt="">
+                        <img src="src\assets\images\Unidad2\EJEMPLOCPU.jpg" alt="">
                     </div>
                 </div>
                 <div class="flex flex-row justify-center mt-5">
                     <div class="w-4/5">
-                        <img src="src\assets\images\Unidad1\ejmplocpu.jpg" alt="">
+                        <img src="src\assets\images\Unidad2\ejmplocpu.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -85,7 +85,7 @@
                         <p>El resultado generado por la operación es almacenado en la memoria principal o enviado a un dispositivo de salida dependiendo de la instrucción. Basándose en los resultados de la operación, el contador de programa se incrementa para apuntar a la siguiente instrucción o se actualiza con una dirección diferente donde la próxima instrucción será recogida.</p>
                     </div>
                     <div class="w-2/5">
-                        <img src="src\assets\images\Unidad1\ciclofetch.jpg" class="w-full" alt="">
+                        <img src="src\assets\images\Unidad2\ciclofetch.jpg" class="w-full" alt="">
                     </div>
                 </div>
             </div>
@@ -130,7 +130,7 @@
                         <p>Los modos de direccionamiento del 8086 son muy irregulares. Los registros del procesador, se usan para contener los datos con que se está trabajando puesto que el acceso a los registros es mucho más rápido que los accesos a memoria.</p>
                     </div>
                     <div class="w-2/5">
-                        <img src="src\assets\images\Unidad1\casocpu.jpg" class="w-full" alt="">
+                        <img src="src\assets\images\Unidad2\casocpu.jpg" class="w-full" alt="">
                     </div>
                 </div>
             </div>
